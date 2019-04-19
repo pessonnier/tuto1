@@ -1,3 +1,3 @@
 # ALU
-tuto0
-V1
+tuto 0
+V2
